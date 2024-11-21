@@ -69,11 +69,11 @@ endmodule
 
 
 **TRUTH TABLE**
+
 ![image](https://github.com/user-attachments/assets/d8130677-0f52-410e-9e3b-c0cc722434f7)
 
 
 **RESULTS**
- 
 Hence a 4 bit synchronous up counter is implemented correctly and program code is successfully executed.
 
 
